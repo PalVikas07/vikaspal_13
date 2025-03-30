@@ -7,7 +7,7 @@ public class Student_Controller {
 	public static void main(String[] args) {
 		Student student = new Student();
 		student.setId(102);
-		student.setName("pratik");
+		student.setName("Vikas");
 		student.setMno(87878787);
 		student.setAddress("thane");
 
