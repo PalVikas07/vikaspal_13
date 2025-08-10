@@ -12,9 +12,7 @@ public class Student_Controller {
 		student.setAddress("thane");
 
 		Student_Dao dao = new Student_Dao();
-//	dao.saveStudent(student);
-		// dao.updateStudent(student);
-		// dao.findStudent(101);
 		dao.deleteStudent(102);
 	}
 }
+
